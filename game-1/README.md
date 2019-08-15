@@ -1,36 +1,40 @@
-# Insert Game Title Here
+# Snail Race
 
 ## Game Concept
-> Wow! Words, words, words. Can you try to words?
+> A snail must race from point A to point B as quick as possible. Can you get there as quick as possible?
 >
->> *Objective:* 
+>> *Objective:* Mash space as fast as possible.
 
 
 ## Features
-    - Feature 1
-    - Feature 2
-
+    - Timer starts when snail starts moving
+    - Timer stops when snail reaches the finish
+    - Snail moves across the screen
+    
 
 ## Graphics
 
 ##### Sprites/Objects
-    - Sample Text
+    - Snail
+    - Finish-Line
+    - Particles (Extra Credit)
 
 ##### UI/Windows
-    - Sample Text
+    - Stopwatch (HH:MM:SS, SS, etc.)
+    - Game Over Screen (Extra Credit)
+    - Retry button (Extra Credit)
 
 
 ## Audio
 
 ##### Sound Effects
-    - Sfx 1
+    - Victory (Extra Credit)
 
 ##### Music
-    - Song 1
+    - None
 
 
 ## Controls
 
 ##### Keyboard
-    > Key 1: Action 1
-    > Key 2: Action 2
+    > Space Bar: Move Snail

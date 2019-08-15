@@ -31,5 +31,5 @@
 
 ## Controls
     - Keyboard
-    > Key 1: Action 1
-    > Key 2: Action 2
+    -- Key 1: Action 1
+    -- Key 2: Action 2

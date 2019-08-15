@@ -1,36 +1,48 @@
-# Insert Game Title Here
+# Darts & Balloon
 
 ## Game Concept
-> Wow! Words, words, words. Can you try to words?
+> A series of balloons whirl by. Try to pop as many as possible with your handy darts!
 >
->> *Objective:* 
+>> *Objective:* Throw darts so that they connect with a balloon to earn points. Earn a ton of points.
 
 
 ## Features
-    - Feature 1
-    - Feature 2
+    - Dart Projectile
+        - Aiming (Optional)
+    - Moving Balloons
+        - Varying Speed (Optional)
+        - Varying Routes (Optional)
+    - Spawning/Despawning Balloons
+    - Scoring
+        - Various Scores Based off Balloons (Optional)
 
 
 ## Graphics
 
 ##### Sprites/Objects
-    - Sample Text
+    - Balloons
+        - Multi-color (Optional)
+        - Animated (Optional)
+    - Dart
+    - Carnival Booth or Sky Background
 
 ##### UI/Windows
-    - Sample Text
+    - Score
+    - Ammo (Optional)
+    - Game Over Splash
 
 
 ## Audio
 
 ##### Sound Effects
-    - Sfx 1
+    - Balloon Pop Sound Effect
 
 ##### Music
-    - Song 1
+    - Carnival Theme
 
 
 ## Controls
 
 ##### Keyboard
-    > Key 1: Action 1
-    > Key 2: Action 2
+    > Space Bar: Throw Dart
+    > Left/Right: Move Aim (Optional)

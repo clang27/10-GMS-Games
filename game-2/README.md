@@ -1,7 +1,7 @@
 # Insert Game Title Here
 
 ## Game Concept
-> 
+> Wow! Words, words, words. Can you try to words?
 >
 >> *Objective:* 
 
@@ -30,6 +30,7 @@
 
 
 ## Controls
-    - Keyboard
+
+##### Keyboard
     > Key 1: Action 1
     > Key 2: Action 2

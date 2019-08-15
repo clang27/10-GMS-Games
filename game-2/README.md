@@ -1,4 +1,4 @@
-# Darts & Balloon
+# Darts & Balloons
 
 ## Game Concept
 > A series of balloons whirl by. Try to pop as many as possible with your handy darts!

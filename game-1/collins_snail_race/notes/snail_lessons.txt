@@ -1,0 +1,4 @@
+https://help.yoyogames.com/hc/en-us/articles/360022531011-How-To-Create-a-Custom-Code-Snippets-File
+
+    F4 to open the code snippet pop-up
+    %ProgramData%\GameMakerStudio2\User\ to edit code snippets

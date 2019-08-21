@@ -14,17 +14,18 @@ draw_set_valign(fa_top);
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 1154FE67
+/// @DnDArgument : "color" "$FF000000"
 /// @DnDArgument : "alpha" "false"
-draw_set_colour($FFFFFFFF & $ffffff);
+draw_set_colour($FF000000 & $ffffff);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 13D77073
 /// @DnDArgument : "x" "10"
-/// @DnDArgument : "y" "10"
+/// @DnDArgument : "y" "550"
 /// @DnDArgument : "caption" ""Time: ""
 /// @DnDArgument : "var" "elapsed_time / 1000"
-draw_text(10, 10, string("Time: ") + string(elapsed_time / 1000));
+draw_text(10, 550, string("Time: ") + string(elapsed_time / 1000));
 
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1

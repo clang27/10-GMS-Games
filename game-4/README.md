@@ -1,36 +1,47 @@
-# Insert Game Title Here
+# Shieldon
 
 ## Game Concept
-> Wow! Words, words, words. Can you try to words?
+> Evil archers are firing at a knight at all angles! He must protect himself with his trusty shield.
 >
->> *Objective:* 
+>> *Objective:* Dodge/defend arrows coming at a knight with a shield. The player must be able to angle this shield in whichever direction they please, to block the arrow from doing damage.
 
 
 ## Features
-    - Feature 1
-    - Feature 2
+    - Arrow projectiles
+    - Movable player
+    - Bird-eye or side-view camera
+    - Rotatable shield
+    - Health Bar (Extra Credit)
+    - Jump (Extra Credit)
 
 
 ## Graphics
 
 ##### Sprites/Objects
-    - Sample Text
+    - Arrow
+    - Knight
+    - Shield
+    - Archers (out-of-play or in-play) (Extra Credit)
 
 ##### UI/Windows
-    - Sample Text
+    - 'Game Over' splash screen
+    - Health Bar (Extra Credit)
 
 
 ## Audio
 
 ##### Sound Effects
-    - Sfx 1
+    - Arrow blocked
+    - Arrow not-blocked
 
 ##### Music
-    - Song 1
+    - Medieval jam
 
 
 ## Controls
 
 ##### Keyboard
-    > Key 1: Action 1
-    > Key 2: Action 2
+    > Up/Down/Left/Right: Move Player or Shield (Up to interpretation!)
+    > W/A/S/D: Move Player or Shield
+    > Mouse: Move Shield (If feeling spicy)
+    > Jump (Extra Credit)

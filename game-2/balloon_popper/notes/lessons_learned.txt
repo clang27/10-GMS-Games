@@ -1,0 +1,11 @@
+Object Environmental Variables:
+    sprite_index (sprite resource)
+    image_index (frame number)
+    image_speed (multiplier with sprite animation FPS)
+    x, y
+    
+    
+place_meeting(x, y, object)
+keyboard_check()
+keyboard_check_pressed()
+sign(variable) returns 1 or -1

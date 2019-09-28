@@ -1,36 +1,49 @@
-# Insert Game Title Here
+# salamandR
 
 ## Game Concept
-> Wow! Words, words, words. Can you try to words?
+> Help Sal the Salamander cross over to the other side without crossing over to the other side!
 >
->> *Objective:* 
+>> *Objective:* Successfully cross the road/river/lava/etc while dodging cars/other obstacles (Totally *NOT* a Frogger rip-off!)
 
 
 ## Features
-    - Feature 1
-    - Feature 2
-
+    - Moveable player
+    - Cars or other obstacles dangerous to player
+    - Overhead camera
+    - Increasing difficulty of obstacles as player progresses
+    - Stress-inducing timer
+    - Multiple exits (Extra credit)
+    - Bonus pickups (Extra credit)
+    - Multiple levels with increase difficulty or different obstacles (Extra credit)
+    - Score based on time (Extra credit)
 
 ## Graphics
 
+
 ##### Sprites/Objects
-    - Sample Text
+    - Salamander (animated?)
+    - Cars
+    - Other obstacles (Be creative 😁)
 
 ##### UI/Windows
-    - Sample Text
+    - Timer
+    - Level (Extra credit)
+    - Score (Extra credit)
 
 
 ## Audio
 
+
 ##### Sound Effects
-    - Sfx 1
+    - Move sound
+    - Obstacle sounds
 
 ##### Music
-    - Song 1
+    - Stress-inducing, mistake encouraging music
 
 
 ## Controls
 
+
 ##### Keyboard
-    > Key 1: Action 1
-    > Key 2: Action 2
+    > Up/Down/Left/Right and/or WASD: Move player

@@ -1,36 +1,41 @@
-# Insert Game Title Here
+# Autorunner
 
 ## Game Concept
-> Wow! Words, words, words. Can you try to words?
+> Classic auto running platformer
 >
->> *Objective:* 
+>> *Objective:* Run right, jump over obstacles, get to the exit(?)
 
 
 ## Features
-    - Feature 1
-    - Feature 2
-
+    - Auto-running character
+    - Jump
+    - Procedurally generated level(s) (Extra credit)
+    - Points (Extra credit)
+    - Collectibles [Like coins or something] (Extra credit)
 
 ## Graphics
 
 ##### Sprites/Objects
-    - Sample Text
+    - Animated player - make it run 🏃
+    - Various obstacles
+    - Collectibles (Extra credit)
 
 ##### UI/Windows
-    - Sample Text
+    - Points/Distance/Time/Coins/Level etc (Extra credit)
 
 
 ## Audio
 
 ##### Sound Effects
-    - Sfx 1
+    - Jump
+    - Crashing into obstacle sound
+    - Death
 
 ##### Music
-    - Song 1
+    - Whatever suits the theme you're going for
 
 
 ## Controls
 
 ##### Keyboard
-    > Key 1: Action 1
-    > Key 2: Action 2
+    > Jump: Whatever key you want to make it, just go crazy with the polish, speedrunner level quality

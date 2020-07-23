@@ -12,8 +12,8 @@ How can you get start with little or no experience?
 - Clone this repo
   - [Download GitHub Desktop](https://desktop.github.com/)
   - Go to: https://github.com/clang27/10-GMS-Games
-  - Click "Code ▼" and "Open with GitHub Desktop"
   - Clone the repo to a folder or any location
+    - [This explains how](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop)
 - Import a project into GameMaker and see what someone else did!
   - i.e.: Import "10-GMS-Games/game-1/collins_snail_race/"
 - Create a project into "game-1" and name the folder "[your_name]_[game_name]"

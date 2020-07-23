@@ -7,7 +7,7 @@ How can you get start with little or no experience?
 - [Register an account with YoYo Games](https://accounts.yoyogames.com/register)
 - [Download GameMaker and activate the trial](https://accounts.yoyogames.com/downloads)
 - [Do a quick review of GameMaker](https://www.youtube.com/watch?v=raGK_j1NVdE)
-- [Clone this repo]
+- Clone this repo
   - [Download GitHub Desktop](https://desktop.github.com/)
   - Go to: https://github.com/clang27/10-GMS-Games
   - Click "Code ▼" and "Open with GitHub Desktop"

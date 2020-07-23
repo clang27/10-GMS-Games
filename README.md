@@ -18,4 +18,4 @@ How can you get start with little or no experience?
   - i.e.: Import "10-GMS-Games/game-1/collins_snail_race/"
 - Create a project into "game-1" and name the folder "[your_name]_[game_name]"
 - Give it your best try and push to origin!
-  - Push to origin? See this: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop
+  - Push to origin? See this: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch

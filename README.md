@@ -2,6 +2,8 @@
 
 10 mini-games (think WarioWare games) that are a nice introduction to GameMaker Studio and GitHub! These are 10 "push-ups" before working on any group project and/or game jams.
 
+***
+
 How can you get start with little or no experience?
 
 - [Register an account with YoYo Games](https://accounts.yoyogames.com/register)
